@@ -1,0 +1,10 @@
+C:\Users\WOLF\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\WOLF\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\WOLF\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\WOLF\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\WOLF\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Robot CPanal.exe
+C:\Users\WOLF\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Robot CPanal.pdb
+C:\Users\WOLF\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Robot CPanal.xml
+C:\Users\WOLF\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\Robot CPanal.exe
+C:\Users\WOLF\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\Robot CPanal.xml
+C:\Users\WOLF\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\Robot CPanal.pdb

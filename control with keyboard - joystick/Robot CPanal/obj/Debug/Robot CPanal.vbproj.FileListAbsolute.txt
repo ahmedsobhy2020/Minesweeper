@@ -1,0 +1,46 @@
+F:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\obj\Debug\Robot CPanal.exe
+F:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\obj\Debug\Robot CPanal.xml
+F:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\obj\Debug\Robot CPanal.pdb
+F:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\bin\Debug\Robot CPanal.exe
+F:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\bin\Debug\Robot CPanal.pdb
+F:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\bin\Debug\Robot CPanal.xml
+F:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\obj\Debug\ResolveAssemblyReference.cache
+F:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\obj\Debug\WindowsApplication1.Resources.resources
+F:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\obj\Debug\WindowsApplication1.SplashScreen1.resources
+F:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\obj\Debug\Robot CPanal.vbproj.GenerateResource.Cache
+F:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\bin\Debug\Robot CPanal.exe.manifest
+F:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\bin\Debug\Robot CPanal.application
+F:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\obj\Debug\Robot CPanal.exe.manifest
+F:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\obj\Debug\Robot CPanal.application
+F:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\obj\Debug\WindowsApplication1.Form2.resources
+F:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\obj\Debug\WindowsApplication1.FrmImage.resources
+F:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\obj\Debug\WindowsApplication1.frmMain.resources
+C:\Users\eng.ahmed.sobhy\Desktop\Robot CPanal\Robot CPanal\obj\Debug\Robot CPanal.exe
+C:\Users\eng.ahmed.sobhy\Desktop\Robot CPanal\Robot CPanal\obj\Debug\Robot CPanal.xml
+C:\Users\eng.ahmed.sobhy\Desktop\Robot CPanal\Robot CPanal\obj\Debug\Robot CPanal.pdb
+C:\Users\eng.ahmed.sobhy\Desktop\robot\Robot CPanal\Robot CPanal\obj\Debug\Robot CPanal.exe
+C:\Users\eng.ahmed.sobhy\Desktop\robot\Robot CPanal\Robot CPanal\obj\Debug\Robot CPanal.xml
+C:\Users\eng.ahmed.sobhy\Desktop\robot\Robot CPanal\Robot CPanal\obj\Debug\Robot CPanal.pdb
+C:\Users\eng.ahmed.sobhy\Desktop\robot\Robot CPanal\Robot CPanal\bin\Debug\Robot CPanal.exe.manifest
+C:\Users\eng.ahmed.sobhy\Desktop\robot\Robot CPanal\Robot CPanal\bin\Debug\Robot CPanal.application
+C:\Users\eng.ahmed.sobhy\Desktop\robot\Robot CPanal\Robot CPanal\bin\Debug\Robot CPanal.exe
+C:\Users\eng.ahmed.sobhy\Desktop\robot\Robot CPanal\Robot CPanal\bin\Debug\Robot CPanal.pdb
+C:\Users\eng.ahmed.sobhy\Desktop\robot\Robot CPanal\Robot CPanal\bin\Debug\Robot CPanal.xml
+C:\Users\eng.ahmed.sobhy\Desktop\robot\Robot CPanal\Robot CPanal\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\eng.ahmed.sobhy\Desktop\robot\Robot CPanal\Robot CPanal\obj\Debug\WindowsApplication1.FrmImage.resources
+C:\Users\eng.ahmed.sobhy\Desktop\robot\Robot CPanal\Robot CPanal\obj\Debug\WindowsApplication1.frmMain.resources
+C:\Users\eng.ahmed.sobhy\Desktop\robot\Robot CPanal\Robot CPanal\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\eng.ahmed.sobhy\Desktop\robot\Robot CPanal\Robot CPanal\obj\Debug\WindowsApplication1.SplashScreen1.resources
+C:\Users\eng.ahmed.sobhy\Desktop\robot\Robot CPanal\Robot CPanal\obj\Debug\Robot CPanal.vbproj.GenerateResource.Cache
+C:\Users\eng.ahmed.sobhy\Desktop\robot\Robot CPanal\Robot CPanal\obj\Debug\Robot CPanal.exe.manifest
+C:\Users\eng.ahmed.sobhy\Desktop\robot\Robot CPanal\Robot CPanal\obj\Debug\Robot CPanal.application
+C:\Users\eng.ahmed.sobhy\Desktop\Robot CPanal\Robot CPanal\bin\Debug\Robot CPanal.exe.manifest
+C:\Users\eng.ahmed.sobhy\Desktop\Robot CPanal\Robot CPanal\bin\Debug\Robot CPanal.application
+C:\Users\eng.ahmed.sobhy\Desktop\Robot CPanal\Robot CPanal\bin\Debug\Robot CPanal.exe
+C:\Users\eng.ahmed.sobhy\Desktop\Robot CPanal\Robot CPanal\bin\Debug\Robot CPanal.pdb
+C:\Users\eng.ahmed.sobhy\Desktop\Robot CPanal\Robot CPanal\bin\Debug\Robot CPanal.xml
+C:\Users\eng.ahmed.sobhy\Desktop\Robot CPanal\Robot CPanal\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\eng.ahmed.sobhy\Desktop\Robot CPanal\Robot CPanal\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\eng.ahmed.sobhy\Desktop\Robot CPanal\Robot CPanal\obj\Debug\Robot CPanal.vbproj.GenerateResource.Cache
+C:\Users\eng.ahmed.sobhy\Desktop\Robot CPanal\Robot CPanal\obj\Debug\Robot CPanal.exe.manifest
+C:\Users\eng.ahmed.sobhy\Desktop\Robot CPanal\Robot CPanal\obj\Debug\Robot CPanal.application

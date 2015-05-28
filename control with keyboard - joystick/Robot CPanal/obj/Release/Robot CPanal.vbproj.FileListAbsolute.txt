@@ -1,0 +1,34 @@
+F:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\bin\Release\Robot CPanal.exe
+F:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\bin\Release\Robot CPanal.pdb
+F:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\bin\Release\Robot CPanal.xml
+F:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\obj\Release\ResolveAssemblyReference.cache
+F:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\obj\Release\WindowsApplication1.Resources.resources
+F:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\obj\Release\WindowsApplication1.SplashScreen1.resources
+F:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\obj\Release\Robot CPanal.vbproj.GenerateResource.Cache
+F:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\obj\Release\Robot CPanal.exe
+F:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\obj\Release\Robot CPanal.xml
+F:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\obj\Release\Robot CPanal.pdb
+F:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\bin\Release\Robot CPanal.exe.manifest
+F:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\bin\Release\Robot CPanal.application
+F:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\obj\Release\Robot CPanal.exe.manifest
+F:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\obj\Release\Robot CPanal.application
+F:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\obj\Release\WindowsApplication1.Form2.resources
+F:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\obj\Release\WindowsApplication1.FrmImage.resources
+F:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\obj\Release\WindowsApplication1.frmMain.resources
+D:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\obj\Release\Robot CPanal.exe
+D:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\obj\Release\Robot CPanal.xml
+D:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\obj\Release\Robot CPanal.pdb
+D:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\bin\Release\Robot CPanal.exe.manifest
+D:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\bin\Release\Robot CPanal.application
+D:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\bin\Release\Robot CPanal.exe
+D:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\bin\Release\Robot CPanal.pdb
+D:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\bin\Release\Robot CPanal.xml
+D:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\obj\Release\ResolveAssemblyReference.cache
+D:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\obj\Release\WindowsApplication1.Form2.resources
+D:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\obj\Release\WindowsApplication1.FrmImage.resources
+D:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\obj\Release\WindowsApplication1.frmMain.resources
+D:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\obj\Release\WindowsApplication1.Resources.resources
+D:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\obj\Release\WindowsApplication1.SplashScreen1.resources
+D:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\obj\Release\Robot CPanal.vbproj.GenerateResource.Cache
+D:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\obj\Release\Robot CPanal.exe.manifest
+D:\المواد\اردوينو\مشروع كود\serial for xbee\2008\Robot CPanal\Robot CPanal\obj\Release\Robot CPanal.application
