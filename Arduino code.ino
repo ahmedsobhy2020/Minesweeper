@@ -203,15 +203,15 @@ void loop()
     
   }
   
-  avenc = (count+count1)/2;
+  avenc = (count+count1)/2; // take average of two encoders 
   if (avenc >= 2450)
    {
-    y++;
+    y++; // start counting Y axis 
     avenc=0;
     count1=0;
     count=0;
     //encoderValue=0;
-   if (y >= 20)
+   if (y >= 20) // when robot finish 1st row start count X axis 
     {
       x++;
       y=0;
