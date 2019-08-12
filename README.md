@@ -1,6 +1,6 @@
 ## Minesweepers Platform
 ### 2014 Story 
-In 2014 i worked to create a Minesweeping Robot for @landminefreeorg competition .  The competition rules at that time were ther robot must find 11 metal cubes "mines" in a 19 M by 19 M arena within 20 minutes. The robot must also provid a map with the location of the mines in the arena. I designed the Robot from A to Z staring with Robot Chassis ended up with software architecture and mapping . The project was divided into four clear portions: robot **movement**, **navigation** and **mapping**, **metal detection**, **electrical system** and **mechanical system**.
+In 2014 i worked to create a Minesweeping Robot for [@landminefreeorg]( https://github.com/orgs/landminefreeorg ) competition .  The competition rules at that time were ther robot must find 11 metal cubes "mines" in a 19 M by 19 M arena within 20 minutes. The robot must also provid a map with the location of the mines in the arena. I designed the Robot from A to Z staring with Robot Chassis ended up with software architecture and mapping . The project was divided into four clear portions: robot **movement**, **navigation** and **mapping**, **metal detection**, **electrical system** and **mechanical system**.
 All related files, codes, design and components can be found at this repository.
 ### 2014 Awards
 - ###### Thr Robot Won 2nd Place in Egypt finals at MUST University and qualified to International Finals- Thr Robot Won 2nd Place in Egypt finals at MUST University and qualified to International Finals 
